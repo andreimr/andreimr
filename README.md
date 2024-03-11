@@ -1,6 +1,6 @@
 # Hello World 👋
 
-### I'm Andrei Rotenstein
+### I'm Andrei Rotenstein [[https://andreimr.github.io]]
 I've finally taken the time to set up this GitHub account, after much procrastination, with the intention of creating repositories to support personal exploration into several topics, as well as a GitHub Pages site documenting it all. The topics are:
  - **Neurosymbolic AI**. I'm fascinated by what so-called foundational models _cannot_ do. They cannot plan or reason, contrary to popular opinion (formally, in the traditional "AI" sense). There are lots of efforts in the research community to imbue models with the missing capabilities. And I'm here for it.
  - **C++ 23**. I taught myself C++ when I was a kid, and so I have always loved that language. I also hate it. (The relationship's complicated.) Those damn ISOC++ working group(s) have overdone it, convoluting the language in order to support features people love in other languages. But I'm compelled to master them here.
