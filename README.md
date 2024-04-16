@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on some FOSS project where I get to do the above.
 - 🤔 I’m looking for help with the previous bullet.
 - 💬 Ask me about [CHRY 105.5 FM](https://chry.fm)
-- 📫 How to reach me: <a>
+- 📫 How to reach me: rotenstein.andrei.v@gmail.com
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: it's a fact my wife doesn't think there's anything fun about me.
+- ⚡ Fun fact: I wrecked my Commodore 64, when I was twelve, because I tried to use the Joystick Port to drive DC motors.
 
 ### Current Goals
 I've finally taken the time to set up this GitHub account, after much procrastination, with the intention of creating repositories to support personal exploration into several topics, as well as a GitHub Pages site documenting it all. The topics are:
